@@ -1,4 +1,4 @@
-#HW1 CODE
+#Integrating Poisson Distribution
 #AUTHOR Cicero Lu
 #Date 01/14/2016
 import math
